@@ -39,9 +39,21 @@ body {
 }
 
 header {
-    text-align: 1px solid white;
+    text-align: center ;
 }
 
 section {
     border: 1px solid white;
+}
+
+nav {
+    position: relative;
+    margin: 0 85px;
+    text-align: left;
+}
+
+footer {
+    background-color: gold;
+    text-align: center;
+    padding: 20px;
 }
